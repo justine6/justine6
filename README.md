@@ -11,9 +11,7 @@
   
 
 </p>
-<div size='20px'> Hi! I am Longla Justine. A Cloud Solutions Architect/DevOps Engineer. Thank You for taking the time to view my GitHub Profile :smile: </div>
-
-<h2> About Me <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/eatSleepCodeRepeat.gif" width = 100px height='100px'></h2>
+<div size='20px'> Hi! I am Longla Justine. A Cloud Solutions Architect/DevOps Engineer. Thank You for taking the time to view my GitHub Profile </div>
 
 
 - 🔭 I’m currently working on Linux and DevOps Concepts/Projects
@@ -35,7 +33,7 @@
 <a href= https://github.com/https://github.com/justine6?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
 
 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/handShake.gif' width="50px" height=50px> </h2>
+<h2> Connect with me <img 
 <a href = 'https://linktr.ee/justinelongla'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>  
 <a href = 'https://www.linkedin.com/in/longlatjustine/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
 <a href = 'https://github.com/justine6'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
