@@ -1,5 +1,6 @@
 <div align="center">
-<img width="75%" height = "250px" src="https://camo.githubusercontent.com/f0b6672766257f78d5e9608ae6aea2ffd11b0e03649f00587dcd72c308af8f11/68747470733a2f2f7777772e6469676974616c6f6e75732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031392f30372f444f552d474946342e676966" alt="cover" />
+<img width="75%" height = "250px" src="![Screenshot 2024-01-10 152933](https://user-images.githubusercontent.com/123348998/298176485-67090816-e00b-4910-a448-f1a118b47ba8.png)
+" alt="cover" />
 </div>
 
 <h1> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
