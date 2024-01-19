@@ -11,7 +11,7 @@
   
 
 </p>
-<div size='20px'> Hi! I am Longla Justine. A Cloud Solutions Architect/DevOps Engineer. Thank You for taking the time to view my GitHub Profile </div>
+<div size='20px'> Hi! I am FNU Longla Justine T. A Cloud Solutions Architect/DevOps Engineer. Thank You for taking the time to view my GitHub Profile </div>
 
 
 - 🔭 I’m currently working on Linux and DevOps Concepts/Projects
