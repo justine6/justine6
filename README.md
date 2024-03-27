@@ -16,11 +16,11 @@
 
 - 🔭 I’m currently working on Linux and DevOps Concepts/Projects
 
-- 🌱 I’m currently learning Linux,DevOps, 
+- 🌱 I’m currently a Linux administrator, cloud Architect and DevSecOps, 
 
-- 👯 I’m looking to collaborate on Anything Cloud & DevOps related 
+- 👯 I’m looking to collaborate on Anything Cloud, & DevOps and security related 
 
-- 💬 Talk to me about AWS, Linux, Devops  
+- 💬 Talk to me about AWS, Azure Linux, Devops and Cyber Security-related 
 
 <h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
 <a href= https://github.com/https://github.com/justine6?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
