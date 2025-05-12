@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="./justine6-banner.png" alt="Justine Tekang GitHub Banner" width="100%" />
+</div>
+
+<div align="center">
 <img width="75%" height = "250px" src="![Screenshot 2024-01-10 152933](https://user-images.githubusercontent.com/123348998/298176485-67090816-e00b-4910-a448-f1a118b47ba8.png)
 " alt="cover" />
 </div>
