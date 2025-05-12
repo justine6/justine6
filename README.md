@@ -1,57 +1,95 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/justine6/justine6/main/justine6-banner.png" alt="Justine Tekang GitHub Banner" width="100%" />
-</p>
+![Justine Tekang GitHub Banner](https://raw.githubusercontent.com/justine6/justine6/main/justine6-banner.png)
 
-<h1 align="center">Hello <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50px" /></h1>
+# Jutellane Solutions
 
-<p align='center'>
-  <img src="https://visitor-badge.glitch.me/badge?page_id=justine6.justine6" alt="visitor badge"/>
-</p>
+> **Cloud Confidence. Delivered.**
 
-<div align="center">
-  <p>Hi! I am Longla Justine T. — A Cloud Solutions Architect/DevOps Engineer.</p>
-  <p>Thank You for taking the time to view my GitHub Profile 💼</p>
-</div>
+Welcome to the official repository for the public-facing homepage of [jutellane.com](https://jutellane.com), designed and built to showcase secure, scalable AWS services, DevSecOps best practices, and modern cloud architecture by Justine Tekang.
 
 ---
 
-- 🔭 I’m currently working on **Data, AI, Python, Linux, and DevOps Concepts/Projects**
-- 🌱 Linux Administrator, Cloud Architect, and DevSecOps Engineer  
-- 👯 Open to collaboration on anything **Cloud, DevOps, and Security-related**  
-- 💬 Let’s talk about **AWS, Azure, Linux, DevOps, and Cybersecurity**  
+### 🔗 HTML Profile Showcase
+
+🌐 **View my DevSecOps & Cloud Engineer profile as an HTML page:**  
+[📄 justine6-profile-readme.html](./justine6-profile-readme.html)
 
 ---
 
-<h2>⚒️ Skills</h2>
+## 🌐 Overview
 
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg" /></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg" /></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg" /></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg" /></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg" /></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg" /></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" /></a>
-<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" /></a>
+This project demonstrates:
 
----
-
-<h2>🤝 Connect With Me</h2>
-
-<a href="https://linktr.ee/justinelongla"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png" /></a>
-<a href="https://www.linkedin.com/in/longlatjustine/"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" /></a>
-<a href="https://github.com/justine6"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" /></a>
+* Full-stack deployment with **Next.js** on **Vercel**
+* Integration of a **custom domain** (`jutellane.com`)
+* Professional-grade **email setup** (`info@jutellane.com`)
+* Modular, responsive **landing page design**
+* Use of **Tailwind CSS** for UI styling
 
 ---
 
-<h2>📊 GitHub Stats</h2>
+## 🔐 Security & Configuration (Abstracted)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justine6&show_icons=true&theme=transparent)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justine6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+> ⚠️ All sensitive credentials, architecture logic, and environment variables have been secured.
+
+* Configuration files like `.env.local`, `next.config.ts`, and auth credentials are **excluded via `.gitignore`**
+* Deployment targets, DNS settings, and Vercel-specific setup are **managed privately**
+
+---
+
+## 🚀 Live Demo
+
+Visit the live site:  
+[🌍 https://jutellane.com](https://jutellane.com)
 
 ---
 
-<h2>😄 Programming Humor</h2>
+## 🛠️ Technologies Used
 
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+* [Next.js](https://nextjs.org/)
+* [Tailwind CSS](https://tailwindcss.com/)
+* [Vercel](https://vercel.com/)
+* [IONOS Email Hosting](https://ionos.com/)
 
 ---
+
+## 💼 Services Highlighted
+
+* **Launch & Migrate** — AWS migration support
+* **Secure & Scale** — DevSecOps pipelines and automation
+* **Operate & Optimize** — Cost audits, 24/7 AWS operations
+
+---
+
+## 🧠 About the Developer
+
+Justine Tekang is a Certified DevSecOps & Cloud Automation Expert with:
+
+* 7+ years experience in cloud architecture
+* Specializations in healthcare, fintech, and e-commerce systems
+* Multilingual fluency: English, French, Dutch
+
+---
+
+## 📩 Contact
+
+For inquiries or consultations:
+
+* Email: [info@jutellane.com](mailto:info@jutellane.com)
+* LinkedIn: [longlatjustine](https://www.linkedin.com/in/longlatjustine)
+
+---
+
+## 📁 Repository Notes
+
+* `.env.local` and other private files are intentionally **excluded**
+* For deployment tips or setup, please contact directly
+
+---
+
+## 🤝 License
+
+This project is licensed for demonstration purposes only. Reach out for collaboration or deployment walkthroughs.
+
+---
+
+_Thank you for visiting the Jutellane Solutions project!_
