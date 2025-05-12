@@ -1,59 +1,57 @@
-<div align="center">
-  <img src="./justine6-banner.png" alt="Justine Tekang GitHub Banner" width="100%" />
-</div>
-
-<div align="center">
-<img width="75%" height = "250px" src="![Screenshot 2024-01-10 152933](https://user-images.githubusercontent.com/123348998/298176485-67090816-e00b-4910-a448-f1a118b47ba8.png)
-" alt="cover" />
-</div>
-
-<h1> Hello <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width = 50px height='50px'> </h1>
-<p align='center'>
-  
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=justine6.justine6)
-  
-
+<p align="center">
+  <img src="https://raw.githubusercontent.com/justine6/justine6/main/justine6-banner.png" alt="Justine Tekang GitHub Banner" width="100%" />
 </p>
-<div size='20px'> Hi! I am Longla Justine T. A Cloud Solutions Architect/DevOps Engineer. Thank You for taking the time to view my GitHub Profile </div>
 
+<h1 align="center">Hello <img src="https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/wave.gif" width="50px" /></h1>
 
-- 🔭 I’m currently working on Data, AI, Python, Linux and DevOps Concepts/Projects
+<p align='center'>
+  <img src="https://visitor-badge.glitch.me/badge?page_id=justine6.justine6" alt="visitor badge"/>
+</p>
 
-- 🌱 I’m currently a Linux administrator, cloud Architect and DevSecOps, 
+<div align="center">
+  <p>Hi! I am Longla Justine T. — A Cloud Solutions Architect/DevOps Engineer.</p>
+  <p>Thank You for taking the time to view my GitHub Profile 💼</p>
+</div>
 
-- 👯 I’m looking to collaborate on Anything Cloud, & DevOps and security related 
+---
 
-- 💬 Talk to me about AWS, Azure Linux, Devops and Cyber Security-related 
+- 🔭 I’m currently working on **Data, AI, Python, Linux, and DevOps Concepts/Projects**
+- 🌱 Linux Administrator, Cloud Architect, and DevSecOps Engineer  
+- 👯 Open to collaboration on anything **Cloud, DevOps, and Security-related**  
+- 💬 Let’s talk about **AWS, Azure, Linux, DevOps, and Cybersecurity**  
 
-<h2> Skills <img src = "https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/code.gif" width = 32px height=32px> </h2>
-<a href= https://github.com/https://github.com/justine6?tab=repositories&q=&type=&language=aws&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg'> </a>
-<a href= https://github.com/https://github.com/justine6?tab=repositories&q=&type=&language=docker&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg'> </a>
-<a href= https://github.com/https://github.com/justine6?tab=repositories&q=&type=&language=kubernetes&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg'> </a>
-<a href= https://github.com/https://github.com/justine6?tab=repositories&q=&type=&language=linux&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg'> </a>
-<a href= https://github.com/https://github.com/justine6?tab=repositories&q=&type=&language=jenkins&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg'> </a>
-<a href= https://github.com/https://github.com/justine6?tab=repositories&q=&type=&language=mysql&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg'> </a>
-<a href= https://github.com/https://github.com/justine6?tab=repositories&q=&type=&language=python&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg'> </a>
-<a href= https://github.com/https://github.com/justine6?tab=repositories&q=&type=&language=git&sort= > <img width ='32px' height='32px' src ='https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg'> </a>
+---
 
+<h2>⚒️ Skills</h2>
 
-<h2> Connect with me <img 
-<a href = 'https://linktr.ee/justinelongla'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a>  
-<a href = 'https://www.linkedin.com/in/longlatjustine/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://github.com/justine6'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg"/></a> 
+<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/aws.svg" /></a>
+<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/docker.svg" /></a>
+<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/kubernetes.svg" /></a>
+<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linux.svg" /></a>
+<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/jenkins.svg" /></a>
+<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/mysql.svg" /></a>
+<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg" /></a>
+<a href="#"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/git.svg" /></a>
 
+---
 
+<h2>🤝 Connect With Me</h2>
 
+<a href="https://linktr.ee/justinelongla"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png" /></a>
+<a href="https://www.linkedin.com/in/longlatjustine/"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg" /></a>
+<a href="https://github.com/justine6"><img width="32px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/github.svg" /></a>
 
-## :chart: Github Stats
+---
 
+<h2>📊 GitHub Stats</h2>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justine6&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=justine6&show_icons=true&theme=transparent)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=justine6&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<h2> Some Programming Humor for you <img align ='center' src='https://raw.githubusercontent.com/rahulbanerjee26/githubProfileReadmeGenerator/main/gifs/winkFace.gif' width = '32px' height= '32px'></h2>
+<h2>😄 Programming Humor</h2>
 
 ![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+
+---
