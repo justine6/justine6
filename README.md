@@ -1,4 +1,5 @@
-![Justine Tekang GitHub Banner](https://raw.githubusercontent.com/justine6/jutellane-homepage/master/justine6-banner.png)
+![Justine Tekang GitHub Banner](https://raw.githubusercontent.com/justine6/justine6/main/justine6-banner.png)
+
 
 
 # Jutellane Solutions
