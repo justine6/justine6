@@ -1,97 +1,122 @@
-![Justine Tekang GitHub Banner](https://raw.githubusercontent.com/justine6/justine6/main/justine6-banner-v2.png)
+![Justine Longla T. Branding Card](./assets/branding-card.png)
 
+# 🌐 Jutellane Solutions  
+**Cloud Confidence. Delivered.**
 
-
-# Jutellane Solutions
-
-> **Cloud Confidence. Delivered.**
-
-Welcome to the official repository for the public-facing homepage of [jutellane.com](https://jutellane.com), designed and built to showcase secure, scalable AWS services, DevSecOps best practices, and modern cloud architecture by Justine Tekang.
+> Built and maintained by **Justine Longla T.** — Solutions Architect & DevSecOps Engineer  
+> Part of the **Jutel Lane** brand  
 
 ---
 
-### 🔗 HTML Profile Showcase
+## 📛 Status & Quality Badges  
 
-🌐 **View my DevSecOps & Cloud Engineer profile as an HTML page:**  
-[📄 justine6-profile-readme.html](./justine6-profile-readme.html)
-
----
-
-## 🌐 Overview
-
-This project demonstrates:
-
-* Full-stack deployment with **Next.js** on **Vercel**
-* Integration of a **custom domain** (`jutellane.com`)
-* Professional-grade **email setup** (`info@jutellane.com`)
-* Modular, responsive **landing page design**
-* Use of **Tailwind CSS** for UI styling
+![CI](https://github.com/justine6/Jutellane-Solutions/actions/workflows/ci.yml/badge.svg?branch=main)  
+![Docs](https://github.com/justine6/Jutellane-Solutions/actions/workflows/docs.yml/badge.svg?branch=main)  
+[![codecov](https://codecov.io/gh/justine6/Jutellane-Solutions/branch/main/graph/badge.svg)](https://codecov.io/gh/justine6/Jutellane-Solutions)  
+![License](https://img.shields.io/github/license/justine6/Jutellane-Solutions?color=blue)  
 
 ---
 
-## 🔐 Security & Configuration (Abstracted)
+## 🌍 Live Demo & Website  
 
-> ⚠️ All sensitive credentials, architecture logic, and environment variables have been secured.
-
-* Configuration files like `.env.local`, `next.config.ts`, and auth credentials are **excluded via `.gitignore`**
-* Deployment targets, DNS settings, and Vercel-specific setup are **managed privately**
-
----
-
-## 🚀 Live Demo
-
-Visit the live site:  
-[🌍 https://jutellane.com](https://jutellane.com)
+- Portfolio Site → [jutellane.com](https://jutellane.com)  
+- Docs Portal → [GitHub Pages](https://justine6.github.io/Jutellane-Solutions/)  
+- GitHub Profile Repo → [justine6](https://github.com/justine6/justine6)  
 
 ---
 
-## 🛠️ Technologies Used
+## 🌐 Overview  
 
-* [Next.js](https://nextjs.org/)
-* [Tailwind CSS](https://tailwindcss.com/)
-* [Vercel](https://vercel.com/)
-* [IONOS Email Hosting](https://ionos.com/)
+This project demonstrates:  
 
----
-
-## 💼 Services Highlighted
-
-* **Launch & Migrate** — AWS migration support
-* **Secure & Scale** — DevSecOps pipelines and automation
-* **Operate & Optimize** — Cost audits, 24/7 AWS operations
+* Full-stack deployment with **Next.js** on **Vercel**  
+* Custom domain integration (`jutellane.com`)  
+* Professional-grade **email setup** (`info@jutellane.com`)  
+* Modular, responsive **landing page design**  
+* Automated docs + strict/soft validation workflows  
 
 ---
 
-## 🧠 About the Developer
+## 🔐 Security & Configuration  
 
-Justine Tekang is a Certified DevSecOps & Cloud Automation Expert with:
+⚠️ Sensitive credentials and logic are fully abstracted.  
 
-* 7+ years experience in cloud architecture
-* Specializations in healthcare, fintech, and e-commerce systems
-* Multilingual fluency: English, French, Dutch
-
----
-
-## 📩 Contact
-
-For inquiries or consultations:
-
-* Email: [info@jutellane.com](mailto:info@jutellane.com)
-* LinkedIn: [longlatjustine](https://www.linkedin.com/in/longlatjustine)
+* `.env.local`, auth keys, and DNS configs are excluded via `.gitignore`.  
+* Deployment targets (Vercel, DNS, etc.) are managed privately.  
 
 ---
 
-## 📁 Repository Notes
+## 📚 Documentation  
 
-* `.env.local` and other private files are intentionally **excluded**
-* For deployment tips or setup, please contact directly
+📖 Docs are in `/docs`, with automatic publishing to **GitHub Pages**.  
 
----
-
-## 🤝 License
-
-This project is licensed for demonstration purposes only. Reach out for collaboration or deployment walkthroughs.
+Highlights:  
+- Dictionary validation workflow (soft vs strict enforcement).  
+- Branching rules (`develop` = soft, `main` = strict).  
+- CI/CD automation with PowerShell + Node.js.  
 
 ---
 
-_Thank you for visiting the Jutellane Solutions project!_
+## 🛠️ Tech Stack  
+
+- [Next.js](https://nextjs.org/) + [Tailwind CSS](https://tailwindcss.com/)  
+- GitHub Actions CI/CD  
+- PowerShell + Node.js scripts  
+- Infrastructure-as-Code (Terraform, Ansible)  
+- Docker + Kubernetes  
+- Hosting: [Vercel](https://vercel.com)  
+- Email: [IONOS](https://ionos.com/)  
+
+---
+
+## 💼 Services Highlighted  
+
+- **Launch & Migrate** — AWS migration support  
+- **Secure & Scale** — DevSecOps pipelines & automation  
+- **Operate & Optimize** — Cost audits & 24/7 AWS operations  
+
+---
+
+## 🧠 About the Developer  
+
+**Justine Longla T.** is a Certified DevSecOps & Cloud Automation Expert with:  
+
+- 7+ years of cloud architecture experience  
+- Specializations in healthcare, fintech, and e-commerce systems  
+- Multilingual: English, French, Dutch  
+
+---
+
+## 📊 GitHub Profile Showcase  
+
+![Justine’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=justine6&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justine6&layout=compact&theme=radical)  
+
+🔗 See my **full profile showcase repo here →** [justine6 repository](https://github.com/justine6/justine6)  
+
+---
+
+## 📩 Contact  
+
+- Email: [info@jutellane.com](mailto:info@jutellane.com)  
+- LinkedIn: [Justine Tekang](https://www.linkedin.com/in/longlatjustine)  
+- GitHub: [justine6](https://github.com/justine6)  
+- Medium: [@justinelongla](https://medium.com/@justinelongla)  
+
+---
+
+## 📁 Repository Notes  
+
+* `.env.local` and other private configs are excluded.  
+* For setup or collaboration, please reach out directly.  
+
+---
+
+## 🤝 License  
+
+This project is licensed for demonstration purposes only.  
+Contact for collaboration or deployment walkthroughs.  
+
+---
+
+⭐ If you find this project useful, please **star this repo** — and check the [justine6 profile repo](https://github.com/justine6/justine6) for more branding & personal showcases.  
