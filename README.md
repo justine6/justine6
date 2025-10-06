@@ -21,7 +21,7 @@
 
 - Portfolio Site → [jutellane.com](https://jutellane.com)  
 - Docs Portal → [GitHub Pages](https://justine6.github.io/Jutellane-Solutions/)  
-- GitHub Profile Repo → [justine6](https://github.com/justine6/justine6)  
+- Profile Showcase Repo → [justine6](https://github.com/justine6/justine6)  
 
 ---
 
@@ -54,6 +54,20 @@ Highlights:
 - Dictionary validation workflow (soft vs strict enforcement).  
 - Branching rules (`develop` = soft, `main` = strict).  
 - CI/CD automation with PowerShell + Node.js.  
+
+---
+
+## 🚦 Workflows in Action  
+
+The **Nouvo Ayiti 2075 Blogs repo** introduced a two-tier validation approach now also adopted here:  
+
+- 🟢 **Soft Validation** → runs on `develop` branch (logs missing keys but passes build).  
+- 🔴 **Strict Validation** → runs on `main` branch (fails build if any keys are missing).  
+
+![Soft Workflow](https://github.com/justine6/nouvo-ayiti-2075-blogs/actions/workflows/check-dicts-soft.yml/badge.svg)  
+![Strict Workflow](https://github.com/justine6/nouvo-ayiti-2075-blogs/actions/workflows/check-dicts-strict.yml/badge.svg)  
+
+🔗 See full pipeline setup here → [Nouvo Ayiti 2075 Blogs Repo](https://github.com/justine6/nouvo-ayiti-2075-blogs)  
 
 ---
 
@@ -92,7 +106,7 @@ Highlights:
 ![Justine’s GitHub Stats](https://github-readme-stats.vercel.app/api?username=justine6&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=justine6&layout=compact&theme=radical)  
 
-🔗 See my **full profile showcase repo here →** [justine6 repository](https://github.com/justine6/justine6)  
+🔗 Explore more in my profile repo → [justine6](https://github.com/justine6/justine6)  
 
 ---
 
@@ -119,4 +133,4 @@ Contact for collaboration or deployment walkthroughs.
 
 ---
 
-⭐ If you find this project useful, please **star this repo** — and check the [justine6 profile repo](https://github.com/justine6/justine6) for more branding & personal showcases.  
+⭐ If you find this project useful, please **star this repo** — and check the [justine6 profile repo](https://github.com/justine6/justine6) and [Nouvo Ayiti 2075 Blogs repo](https://github.com/justine6/nouvo-ayiti-2075-blogs) for more work on automation and branding.  
