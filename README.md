@@ -1,6 +1,6 @@
 ![Justine Longla T. Branding Card](./assets/branding-card.png)
 
-# 🌐 Jutellane Solutions  
+# 🌐 Justine Longla T.
 **Cloud Confidence. Delivered.**
 
 > Built and maintained by **Justine Longla T.** — Solutions Architect & DevSecOps Engineer  
