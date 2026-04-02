@@ -1,9 +1,8 @@
-![Justine Longla T. Branding Card](./assets/branding-card.png)
+![JLT Platform Banner](./assets/github-banner.png)
 
 # Justine Longla T.
 **Platform Engineer | DevSecOps | Cloud Security**  
 Cloud Confidence. Delivered.
-
 ---
 
 # About Me.
