@@ -1,12 +1,12 @@
 ![Justine Longla T. Branding Card](./assets/branding-card.png)
 
 # Justine Longla T.
-**Platform Engineer | DevSecOps | Cloud Security**
+**Platform Engineer | DevSecOps | Cloud Security**  
 Cloud Confidence. Delivered.
 
 ---
 
-# About Me
+# About Me.
 
 I design, build, secure, and operate cloud platforms.
 
@@ -16,77 +16,67 @@ I maintain the **JLT Platform** as a live platform engineering environment where
 
 ---
 
-# The JLT Platform
+# The JLT Platform — Engineering Structure
 
-The JLT Platform is structured across multiple platform layers:
+The JLT Platform is structured as a platform engineering environment composed of multiple repositories, where each repository represents a core platform capability.
 
-| Platform Layer | Repository |
+| Platform Plane | Repository |
 |----------------|-----------|
-| Architecture | jlt-platform-architecture |
-| Control Plane | jlt-access-control |
-| Delivery Plane | jlt-ci-cd-platform |
-| Observability | jlt-observability-stack |
-| Automation | jlt-automation-toolkit |
-| Operations | jlt-runbooks |
+| Architecture Plane | https://github.com/justine6/jlt-platform-architecture |
+| Control Plane | https://github.com/justine6/jlt-access-control |
+| Delivery Plane | https://github.com/justine6/jlt-ci-cd-platform |
+| Observability Plane | https://github.com/justine6/jlt-observability-stack |
+| Automation Plane | https://github.com/justine6/jlt-automation-toolkit |
+| Operations Plane | https://github.com/justine6/jlt-runbooks |
 
-This structure represents a full platform engineering lifecycle:
+This structure represents the platform lifecycle:
 
-**Design → Secure → Deliver → Observe → Automate → Operate**
+**Design → Secure → Deliver → Observe → Automate → Operate → Document → Improve**
 
 ---
 
-# Featured Platform Repositories
+# Platform Architecture & Operating Model
 
-## Platform Architecture
-Platform design, control flow, and system architecture.
-🔗 https://github.com/justine6/jlt-platform-architecture
+The following diagrams describe how the platform operates:
 
-## CI/CD Platform
-Build, validation, and deployment workflows.
-🔗 https://github.com/justine6/jlt-ci-cd-platform
+| Diagram | Link |
+|--------|------|
+| Platform Overview | https://github.com/justine6/jlt-platform-architecture/blob/main/diagrams/platform-overview.md |
+| CI/CD Delivery Flow | https://github.com/justine6/jlt-ci-cd-platform/blob/main/diagrams/cicd-flow.md |
+| Access Control Flow | https://github.com/justine6/jlt-access-control/blob/main/diagrams/access-flow.md |
+| Observability Operations Loop | https://github.com/justine6/jlt-observability-stack/blob/main/diagrams/observability-loop.md |
+| Incident Response Flow | https://github.com/justine6/jlt-runbooks/blob/main/diagrams/incident-response-flow.md |
 
-## Observability Stack
-Monitoring, metrics, dashboards, and alerting.
-🔗 https://github.com/justine6/jlt-observability-stack
-
-## Access Control Model
-Identity, authorization, and entitlement model.
-🔗 https://github.com/justine6/jlt-access-control
-
-## Automation Toolkit
-Platform automation scripts and guardrails.
-🔗 https://github.com/justine6/jlt-automation-toolkit
-
-## Runbooks
-Operational procedures and incident response.
-🔗 https://github.com/justine6/jlt-runbooks
+These diagrams together describe the **platform operating model**, including delivery, security, observability, and operations.
 
 ---
 
 # Tech Stack
 
-**Cloud:** AWS, Azure, Vercel, Cloudflare  
-**DevOps:** Docker, Kubernetes, Terraform, GitHub Actions, Ansible  
-**Security:** IAM, Secrets Management, Compliance (HIPAA, NIST, PCI-DSS)  
-**Observability:** Prometheus, Grafana  
-**Languages:** Python, TypeScript, PowerShell, Bash  
-**Frontend:** Next.js, Tailwind CSS  
+| Area | Technology |
+|------|------------|
+| Cloud | AWS, Azure, Vercel, Cloudflare |
+| DevOps | Docker, Kubernetes, Terraform, GitHub Actions, Ansible |
+| Security | IAM, Secrets Management, Compliance (HIPAA, NIST, PCI-DSS) |
+| Observability | Prometheus, Grafana |
+| Languages | Python, TypeScript, PowerShell, Bash |
+| Frontend | Next.js, Tailwind CSS |
 
 ---
 
 # Certifications
 
-- AWS Solutions Architect
-- Azure DevOps Engineer
-- Azure AI Engineer
-- Power BI Data Analyst
+- AWS Solutions Architect  
+- Azure DevOps Engineer  
+- Azure AI Engineer  
+- Power BI Data Analyst  
 
 ---
 
-# Live Projects
+# Live Platform
 
-🌐 Website → https://justinelonglat-lane.com 
-📚 Docs → GitHub Pages  
+🌐 Website → https://justinelonglat-lane.com  
+📚 Documentation → Docs Site  
 📝 Blog → Platform Engineering Articles  
 
 ---
@@ -96,8 +86,10 @@ Operational procedures and incident response.
 📧 info@justinelonglat-lane.com  
 🔗 LinkedIn: https://www.linkedin.com/in/longlatjustine  
 💻 GitHub: https://github.com/justine6  
-🌐 Website: https://justinelonglat-lane.com 
+🌐 Website: https://justinelonglat-lane.com  
 
 ---
 
 **Cloud Confidence. Delivered.**
+
+_Last updated: April 2026_
